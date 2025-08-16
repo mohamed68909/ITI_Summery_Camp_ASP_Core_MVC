@@ -1,0 +1,11 @@
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day5\Day 5\bin\Debug\net8.0\Task 1(Company HR Payroll).deps.json
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day5\Day 5\bin\Debug\net8.0\Task 1(Company HR Payroll).dll
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day5\Day 5\bin\Debug\net8.0\Task 1(Company HR Payroll).pdb
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day5\Day 5\obj\Debug\net8.0\Task 1(Company HR Payroll).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day5\Day 5\obj\Debug\net8.0\Task 1(Company HR Payroll).AssemblyInfoInputs.cache
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day5\Day 5\obj\Debug\net8.0\Task 1(Company HR Payroll).AssemblyInfo.cs
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day5\Day 5\obj\Debug\net8.0\Task 1(Company HR Payroll).csproj.CoreCompileInputs.cache
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day5\Day 5\obj\Debug\net8.0\Task 1(Company HR Payroll).dll
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day5\Day 5\obj\Debug\net8.0\refint\Task 1(Company HR Payroll).dll
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day5\Day 5\obj\Debug\net8.0\Task 1(Company HR Payroll).pdb
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day5\Day 5\obj\Debug\net8.0\ref\Task 1(Company HR Payroll).dll

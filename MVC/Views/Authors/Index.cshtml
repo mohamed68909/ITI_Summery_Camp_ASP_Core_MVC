@@ -1,0 +1,58 @@
+﻿@using LibraryBookManagement.Models
+@model IEnumerable<Author>
+
+@{
+    ViewData["Title"] = "Authors";
+}
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+<div class="container py-5">
+
+    <div class="text-center mb-5">
+        <h1 class="display-4 fw-bold">
+            <i class="bi bi-journal-richtext me-2 text-primary"></i> Authors List
+        </h1>
+        <p class="text-muted">All registered authors in the library system.</p>
+    </div>
+
+    <div class="text-end mb-3">
+        <a asp-action="Create" class="btn btn-success shadow px-4 py-2 rounded-pill fw-semibold">
+            <i class="bi bi-plus-lg me-1"></i> Add New Author
+        </a>
+    </div>
+
+    <div class="table-responsive shadow rounded-4 overflow-hidden">
+        <table class="table table-striped table-hover align-middle mb-0">
+            <thead class="table-dark text-center">
+                <tr>
+                    <th>Name</th>
+                    <th>Bio</th>
+                    <th>Date of Birth</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody class="text-center">
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="fw-semibold">@item.Name</td>
+                        <td>@item.Bio</td>
+                        <td>@item.DateOfBirth.ToString("MMMM dd, yyyy")</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="badge bg-warning text-dark me-1">
+                                <i class="bi bi-pencil-square"></i> Edit
+                            </a>
+                            <a asp-action="Details" asp-route-id="@item.Id" class="badge bg-info text-white me-1">
+                                <i class="bi bi-info-circle"></i> Details
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@item.Id" class="badge bg-danger">
+                                <i class="bi bi-trash"></i> Delete
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

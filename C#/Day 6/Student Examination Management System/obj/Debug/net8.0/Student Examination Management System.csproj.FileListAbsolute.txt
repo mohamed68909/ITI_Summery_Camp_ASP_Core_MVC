@@ -1,0 +1,14 @@
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day 6\Student Examination Management System\bin\Debug\net8.0\Student Examination Management System.exe
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day 6\Student Examination Management System\bin\Debug\net8.0\Student Examination Management System.deps.json
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day 6\Student Examination Management System\bin\Debug\net8.0\Student Examination Management System.runtimeconfig.json
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day 6\Student Examination Management System\bin\Debug\net8.0\Student Examination Management System.dll
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day 6\Student Examination Management System\bin\Debug\net8.0\Student Examination Management System.pdb
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day 6\Student Examination Management System\obj\Debug\net8.0\Student Examination Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day 6\Student Examination Management System\obj\Debug\net8.0\Student Examination Management System.AssemblyInfoInputs.cache
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day 6\Student Examination Management System\obj\Debug\net8.0\Student Examination Management System.AssemblyInfo.cs
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day 6\Student Examination Management System\obj\Debug\net8.0\Student Examination Management System.csproj.CoreCompileInputs.cache
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day 6\Student Examination Management System\obj\Debug\net8.0\Student Examination Management System.dll
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day 6\Student Examination Management System\obj\Debug\net8.0\refint\Student Examination Management System.dll
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day 6\Student Examination Management System\obj\Debug\net8.0\Student Examination Management System.pdb
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day 6\Student Examination Management System\obj\Debug\net8.0\Student Examination Management System.genruntimeconfig.cache
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day 6\Student Examination Management System\obj\Debug\net8.0\ref\Student Examination Management System.dll

@@ -1,0 +1,14 @@
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day8\Delegate Tasks for Students\bin\Debug\net9.0\Delegate Tasks for Students.exe
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day8\Delegate Tasks for Students\bin\Debug\net9.0\Delegate Tasks for Students.deps.json
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day8\Delegate Tasks for Students\bin\Debug\net9.0\Delegate Tasks for Students.runtimeconfig.json
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day8\Delegate Tasks for Students\bin\Debug\net9.0\Delegate Tasks for Students.dll
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day8\Delegate Tasks for Students\bin\Debug\net9.0\Delegate Tasks for Students.pdb
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day8\Delegate Tasks for Students\obj\Debug\net9.0\Delegate Tasks for Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day8\Delegate Tasks for Students\obj\Debug\net9.0\Delegate Tasks for Students.AssemblyInfoInputs.cache
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day8\Delegate Tasks for Students\obj\Debug\net9.0\Delegate Tasks for Students.AssemblyInfo.cs
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day8\Delegate Tasks for Students\obj\Debug\net9.0\Delegate Tasks for Students.csproj.CoreCompileInputs.cache
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day8\Delegate Tasks for Students\obj\Debug\net9.0\Delegate Tasks for Students.dll
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day8\Delegate Tasks for Students\obj\Debug\net9.0\refint\Delegate Tasks for Students.dll
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day8\Delegate Tasks for Students\obj\Debug\net9.0\Delegate Tasks for Students.pdb
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day8\Delegate Tasks for Students\obj\Debug\net9.0\Delegate Tasks for Students.genruntimeconfig.cache
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day8\Delegate Tasks for Students\obj\Debug\net9.0\ref\Delegate Tasks for Students.dll

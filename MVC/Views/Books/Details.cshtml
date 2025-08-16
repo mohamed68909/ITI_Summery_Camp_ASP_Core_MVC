@@ -1,0 +1,51 @@
+﻿@using LibraryBookManagement.Models
+@model Book
+@{
+    ViewData["Title"] = "Book Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Book</h4>
+    <hr />
+    <div class="row mb-2">
+        <label class="col-sm-2 col-form-label">Title</label>
+        <div class="col-sm-10">
+            <span class="form-control-plaintext">@Model.Title</span>
+        </div>
+    </div>
+
+    <div class="row mb-2">
+        <label class="col-sm-2 col-form-label">Category</label>
+        <div class="col-sm-10">
+            <span class="form-control-plaintext">@Model.Category</span>
+        </div>
+    </div>
+
+    <div class="row mb-2">
+        <label class="col-sm-2 col-form-label">Publication Date</label>
+        <div class="col-sm-10">
+            <span class="form-control-plaintext">@Model.PublicationDate.ToShortDateString()</span>
+        </div>
+    </div>
+
+    <div class="row mb-2">
+        <label class="col-sm-2 col-form-label">Available</label>
+        <div class="col-sm-10">
+            <span class="form-control-plaintext">@(Model.IsAvailable ? "Yes" : "No")</span>
+        </div>
+    </div>
+
+    <div class="row mb-2">
+        <label class="col-sm-2 col-form-label">Author</label>
+        <div class="col-sm-10">
+            <span class="form-control-plaintext">@Model.Author?.Name</span>
+        </div>
+    </div>
+</div>
+
+<div class="mt-3">
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

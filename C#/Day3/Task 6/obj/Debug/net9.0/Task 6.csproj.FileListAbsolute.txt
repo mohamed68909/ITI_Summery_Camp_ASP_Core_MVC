@@ -1,0 +1,14 @@
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day3\Task 6\bin\Debug\net9.0\Task 6.exe
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day3\Task 6\bin\Debug\net9.0\Task 6.deps.json
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day3\Task 6\bin\Debug\net9.0\Task 6.runtimeconfig.json
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day3\Task 6\bin\Debug\net9.0\Task 6.dll
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day3\Task 6\bin\Debug\net9.0\Task 6.pdb
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day3\Task 6\obj\Debug\net9.0\Task 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day3\Task 6\obj\Debug\net9.0\Task 6.AssemblyInfoInputs.cache
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day3\Task 6\obj\Debug\net9.0\Task 6.AssemblyInfo.cs
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day3\Task 6\obj\Debug\net9.0\Task 6.csproj.CoreCompileInputs.cache
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day3\Task 6\obj\Debug\net9.0\Task 6.dll
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day3\Task 6\obj\Debug\net9.0\refint\Task 6.dll
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day3\Task 6\obj\Debug\net9.0\Task 6.pdb
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day3\Task 6\obj\Debug\net9.0\Task 6.genruntimeconfig.cache
+C:\Users\m6377\OneDrive\Desktop\ITI\C#\Day3\Task 6\obj\Debug\net9.0\ref\Task 6.dll
